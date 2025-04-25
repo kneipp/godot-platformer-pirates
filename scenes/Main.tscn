@@ -1,4 +1,4 @@
-[gd_scene load_steps=22 format=3 uid="uid://v4xrs07yliog"]
+[gd_scene load_steps=42 format=3 uid="uid://v4xrs07yliog"]
 
 [ext_resource type="Script" uid="uid://c2awx18tm46xn" path="res://scripts/player/player.gd" id="1_cvmbd"]
 [ext_resource type="Texture2D" uid="uid://cf8px7ir31f1s" path="res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 01.png" id="1_elqb8"]
@@ -9,14 +9,34 @@
 [ext_resource type="Texture2D" uid="uid://dyd4vlswofhc0" path="res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 04.png" id="4_nxtc6"]
 [ext_resource type="Texture2D" uid="uid://b4byya0sf0f7t" path="res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/01-Idle/Idle 05.png" id="5_jlsqs"]
 [ext_resource type="Texture2D" uid="uid://bu82jdh7f0dw8" path="res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 01.png" id="8_bb450"]
+[ext_resource type="Texture2D" uid="uid://dhfcl4ybwgavt" path="res://assets/Crabby/01-Idle/Idle 01.png" id="9_36rkl"]
 [ext_resource type="Texture2D" uid="uid://b10760502aehk" path="res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 02.png" id="9_nfivy"]
 [ext_resource type="Texture2D" uid="uid://cbeapbwletxbf" path="res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/03-Jump/Jump 03.png" id="10_1nqs0"]
+[ext_resource type="Texture2D" uid="uid://y7oms88yc0ni" path="res://assets/Crabby/01-Idle/Idle 02.png" id="10_fs0b5"]
 [ext_resource type="Texture2D" uid="uid://cao3jcj7bvsaa" path="res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 01.png" id="11_1iba3"]
+[ext_resource type="Texture2D" uid="uid://d041r0xttw5j5" path="res://assets/Crabby/01-Idle/Idle 03.png" id="11_ma7h6"]
+[ext_resource type="Texture2D" uid="uid://j72lv7eur6fp" path="res://assets/Crabby/01-Idle/Idle 04.png" id="12_e2s0e"]
 [ext_resource type="Texture2D" uid="uid://cu1oqet6w64gj" path="res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 02.png" id="12_yxlcp"]
 [ext_resource type="Texture2D" uid="uid://b8h5psnosuqew" path="res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 03.png" id="13_ebg2g"]
+[ext_resource type="Texture2D" uid="uid://dyv0evewhhj6f" path="res://assets/Crabby/01-Idle/Idle 05.png" id="13_gsxep"]
 [ext_resource type="Texture2D" uid="uid://b5om66wy5cra7" path="res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 04.png" id="14_2ofn6"]
+[ext_resource type="Texture2D" uid="uid://bvgc45myhr5m5" path="res://assets/Crabby/01-Idle/Idle 06.png" id="14_v0vrg"]
+[ext_resource type="Texture2D" uid="uid://s60yq8qw81hm" path="res://assets/Crabby/01-Idle/Idle 07.png" id="15_dg70y"]
 [ext_resource type="Texture2D" uid="uid://bonw8xsj2omx3" path="res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 05.png" id="15_xa025"]
 [ext_resource type="Texture2D" uid="uid://d578x3ierk04" path="res://assets/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose without Sword/02-Run/Run 06.png" id="16_36rkl"]
+[ext_resource type="Texture2D" uid="uid://b5jlkwx1n65bt" path="res://assets/Crabby/01-Idle/Idle 08.png" id="16_pnhog"]
+[ext_resource type="Texture2D" uid="uid://sfmm56adoaj3" path="res://assets/Crabby/01-Idle/Idle 09.png" id="17_2c4at"]
+[ext_resource type="Texture2D" uid="uid://cwwdxilg701in" path="res://assets/Crabby/04-Fall/Fall 01.png" id="18_kxyth"]
+[ext_resource type="Script" uid="uid://dlkhd2cr7b7h1" path="res://scripts/player/player2.gd" id="27_fs0b5"]
+[ext_resource type="Texture2D" uid="uid://cvostob1sn07c" path="res://assets/Crabby/03-Jump/Jump 01.png" id="28_cobve"]
+[ext_resource type="Texture2D" uid="uid://i5i6gnuhi3f0" path="res://assets/Crabby/03-Jump/Jump 02.png" id="29_cmqll"]
+[ext_resource type="Texture2D" uid="uid://dk55s6ds82bpt" path="res://assets/Crabby/03-Jump/Jump 03.png" id="30_8cp6k"]
+[ext_resource type="Texture2D" uid="uid://co64nhcdgq5fa" path="res://assets/Crabby/02-Run/Run 01.png" id="31_8b871"]
+[ext_resource type="Texture2D" uid="uid://b238iis1w42ea" path="res://assets/Crabby/02-Run/Run 02.png" id="32_pdwbg"]
+[ext_resource type="Texture2D" uid="uid://c61xd6a0oiusn" path="res://assets/Crabby/02-Run/Run 03.png" id="33_5grtr"]
+[ext_resource type="Texture2D" uid="uid://cnhykewsktrpm" path="res://assets/Crabby/02-Run/Run 04.png" id="34_vua0o"]
+[ext_resource type="Texture2D" uid="uid://bflp1qp7n2a2u" path="res://assets/Crabby/02-Run/Run 05.png" id="35_t70y2"]
+[ext_resource type="Texture2D" uid="uid://bbt78cy5fbslw" path="res://assets/Crabby/02-Run/Run 06.png" id="36_8gny2"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_ft6cd"]
 texture = ExtResource("1_ft6cd")
@@ -399,7 +419,7 @@ animations = [{
 "texture": ExtResource("2_ft6cd")
 }],
 "loop": false,
-"name": &"fall",
+"name": &"p1_fall",
 "speed": 10.0
 }, {
 "frames": [{
@@ -419,7 +439,7 @@ animations = [{
 "texture": ExtResource("5_jlsqs")
 }],
 "loop": true,
-"name": &"idle",
+"name": &"p1_idle",
 "speed": 10.0
 }, {
 "frames": [{
@@ -433,7 +453,7 @@ animations = [{
 "texture": ExtResource("10_1nqs0")
 }],
 "loop": false,
-"name": &"jump",
+"name": &"p1_jump",
 "speed": 10.0
 }, {
 "frames": [{
@@ -456,7 +476,84 @@ animations = [{
 "texture": ExtResource("16_36rkl")
 }],
 "loop": true,
-"name": &"run",
+"name": &"p1_run",
+"speed": 10.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("18_kxyth")
+}],
+"loop": false,
+"name": &"p2_fall",
+"speed": 10.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("9_36rkl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_fs0b5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_ma7h6")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_e2s0e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_gsxep")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_v0vrg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_dg70y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_pnhog")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_2c4at")
+}],
+"loop": true,
+"name": &"p2_idle",
+"speed": 10.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("28_cobve")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_cmqll")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_8cp6k")
+}],
+"loop": false,
+"name": &"p2_jump",
+"speed": 10.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("31_8b871")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_pdwbg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_5grtr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_vua0o")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_t70y2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_8gny2")
+}],
+"loop": true,
+"name": &"p2_run",
 "speed": 10.0
 }]
 
@@ -468,7 +565,7 @@ size = Vector2(14, 20)
 [node name="TileMap" type="TileMap" parent="."]
 tile_set = SubResource("TileSet_nfivy")
 format = 2
-layer_0/tile_data = PackedInt32Array(262146, 1, 1, 262147, 65537, 1, 262148, 65537, 1, 262149, 65537, 1, 262150, 65537, 1, 262151, 131073, 1, 196615, 131073, 0, 196614, 65537, 0, 196613, 65537, 0, 196612, 65537, 0, 196611, 65537, 0, 196610, 1, 0, 327687, 131073, 2, 327686, 65537, 2, 327685, 65537, 2, 327684, 65537, 2, 327683, 65537, 2, 327682, 1, 2, 262153, 1, 4, 262154, 65537, 4, 262155, 131073, 4, 131083, 1, 2, 131084, 131073, 2, 65548, 131073, 0, 65547, 1, 0, 65545, 262145, 4, 6, 262145, 2, -65530, 262145, 1, -131066, 262145, 0, 458761, 262145, 1, 393225, 983041, 3, 393226, 65537, 4, 393227, 1048577, 3, 458763, 262145, 1, 524299, 1048577, 4, 524298, 65537, 4, 524297, 983041, 4, 327694, 262145, 4, 262159, 262145, 4, 196624, 262145, 4, 458766, 1, 4, 393231, 1, 0, 458767, 655361, 4, 458768, 131073, 2, 393232, 983041, 1, 327696, 1, 0, 327697, 589825, 3, 393233, 131073, 2, 327698, 65537, 4, 327699, 131073, 4)
+layer_0/tile_data = PackedInt32Array(262146, 458753, 0, 262147, 65537, 1, 262148, 65537, 1, 262149, 65537, 1, 262150, 65537, 1, 262151, 131073, 1, 196615, 589825, 3, 196614, 65537, 0, 196613, 65537, 0, 196612, 65537, 0, 196611, 65537, 0, 196610, 65537, 0, 327687, 131073, 2, 327686, 65537, 2, 327685, 65537, 2, 327684, 65537, 2, 327683, 65537, 2, 327682, 1, 2, 196616, 65537, 4, 196617, 65537, 4, 196618, 65537, 4, 196619, 65537, 4, 196620, 65537, 4, 196621, 65537, 4, 196622, 65537, 4, 196623, 65537, 4, 196609, 65537, 0, 196608, 1048577, 1, 262145, 65537, 2, 262144, 1, 2, 262143, 1, 2, 196607, 1, 1, 131071, 1, 1, 65535, 1, 1, -1, 1, 1, -65537, 1, 1, -131073, 1, 1, -196609, 1, 1, 196624, 65537, 4, 196625, 65537, 4, 196626, 65537, 4, 196627, 65537, 4, 196628, 65537, 4, 196629, 65537, 4, 196630, 65537, 4, 196631, 1048577, 4, 131095, 262145, 1, 65559, 262145, 1, 23, 262145, 1, -65513, 262145, 1, -131049, 262145, 1, -196585, 262145, 1, -262121, 262145, 1, -327657, 262145, 0, -262145, 1, 0, -196608, 65537, 1, -196607, 65537, 1, -196606, 65537, 1, -196605, 65537, 1, -196604, 65537, 1, -262140, 65537, 1, -262141, 65537, 1, -262142, 65537, 1, -262143, 65537, 1, -262144, 65537, 1, -327676, 65537, 0, -327677, 65537, 0, -327678, 65537, 0, -327679, 65537, 0, -327680, 65537, 0, -196603, 65537, 1, -196602, 393217, 0, -196601, 65537, 2, -196600, 65537, 2, -262136, 393217, 1, -262137, 65537, 1, -262138, 65537, 1, -262139, 65537, 1, -327675, 65537, 0, -327674, 65537, 0, -327673, 65537, 0, -327672, 131073, 0, -262135, 65537, 0, -196599, 65537, 2, -196598, 65537, 2, -196597, 131073, 2, -262133, 131073, 0, -262134, 65537, 0, 131072, 131073, 1, 65536, 131073, 1, 0, 393217, 0, 1, 131073, 2, -65535, 393217, 0, -131071, 65537, 1, -131072, 65537, 1, -65536, 65537, 1, -131070, 65537, 1, -131069, 65537, 1, -131068, 65537, 1, -131067, 65537, 1, -131066, 131073, 1, -65530, 131073, 2, -65531, 393217, 0, -65532, 458753, 0, -65533, 65537, 2, -65534, 65537, 2, 5, 131073, 2, 4, 1, 2)
 
 [node name="Player" type="CharacterBody2D" parent="."]
 position = Vector2(159, 84)
@@ -478,9 +575,28 @@ metadata/_edit_group_ = true
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="Player"]
 sprite_frames = SubResource("SpriteFrames_q8u5g")
-animation = &"idle"
-autoplay = "idle"
+animation = &"p1_idle"
+autoplay = "p2_idle"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player"]
 position = Vector2(0, 2)
 shape = SubResource("RectangleShape2D_ft6cd")
+
+[node name="Camera2D" type="Camera2D" parent="Player"]
+
+[node name="Player2" type="CharacterBody2D" parent="."]
+position = Vector2(225, 86)
+collision_mask = 2
+script = ExtResource("27_fs0b5")
+metadata/_edit_group_ = true
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="Player2"]
+sprite_frames = SubResource("SpriteFrames_q8u5g")
+animation = &"p2_run"
+autoplay = "p1_idle"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Player2"]
+position = Vector2(0, 2)
+shape = SubResource("RectangleShape2D_ft6cd")
+
+[node name="Camera2D" type="Camera2D" parent="Player2"]
